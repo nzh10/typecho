@@ -48,6 +48,9 @@
                               required><?php $this->remember('text'); ?></textarea>
                 </p>
                 <p>
+                    <?php GrCv3Protect_Plugin::OutputCode(); ?>
+                </p>
+                <p>
                     <button type="submit" class="submit"><?php _e('提交评论'); ?></button>
                 </p>
             </form>

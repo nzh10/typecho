@@ -1,0 +1,3 @@
+[submodule "usr/plugins/Typecho-reCAPTCHA-v3"]
+	path = usr/plugins/GrCv3Protect
+	url = https://github.com/KawaiiZapic/Typecho-reCAPTCHA-v3
